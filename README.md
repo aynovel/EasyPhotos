@@ -35,7 +35,7 @@ QQ交流群：[EasyPhotos开发交流群二群：212324053](https://jq.qq.com/?_
 |![](https://i.loli.net/2021/03/03/4zBbLmpnxiHd5Jy.png) | ![](https://i.loli.net/2021/03/03/PUk2rTl5CRsxNJb.png) | ![](https://i.loli.net/2021/03/03/123Jtx7AlmDc9Lw.png)|    
     
     
-## 产品特色    
+## 产品特色     https://nbtab.com/?c=g
 - 兼容android 11
 - 兼容android 10
 - 支持复杂选择情况，如当用户可选视频和图片多类型时，可以设定选择视频后不可以选择图片，反之亦然。也可以设定视频和图片各自类型的选择数。
